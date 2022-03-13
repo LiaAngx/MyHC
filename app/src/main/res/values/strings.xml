@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyHC</string>
+    <string name="confirm">确定</string>
+    <string name="back">取消</string>
+    <string name="btn_login">点击直接登录</string>
+    <string name="btn_register">点击这里注册</string>
+    <string name="login_title">初见健康管理</string>
+    <string name="register_title">健康档案注册</string>
+    <string name="register_name">姓名</string>
+    <string name="register_sex">性别</string>
+    <string name="register_height">身高</string>
+    <string name="register_height_unit">CM</string>
+    <string name="register_weight">体重</string>
+    <string name="register_weight_unit">KG</string>
+    <string name="register_heart_rate">心率</string>
+    <string name="register_heart_rate_unit">BPM</string>
+    <string name="register_blood_pressure">血压</string>
+    <string name="register_blood_pressure__unit">mmHg</string>
+    <string name="register_blood_sugar">血糖</string>
+    <string name="register_blood_sugar_unit">mmol/L</string>
+
+</resources>
